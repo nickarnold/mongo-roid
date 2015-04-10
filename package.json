@@ -1,6 +1,6 @@
 {
   "name": "mongo-roid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a non-guessable pseudorandom MongoDB ObjectID",
   "main": "roid.js",
   "dependencies": {
