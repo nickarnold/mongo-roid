@@ -1,0 +1,11 @@
+{
+  "name": "mongo-roid",
+  "version": "1.0.0",
+  "dependencies": {
+    "uuid": {
+      "version": "2.0.1",
+      "from": "uuid@*",
+      "resolved": "https://registry.npmjs.org/uuid/-/uuid-2.0.1.tgz"
+    }
+  }
+}

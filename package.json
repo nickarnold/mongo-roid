@@ -1,0 +1,27 @@
+{
+  "name": "mongo-roid",
+  "version": "1.0.0",
+  "description": "Create a non-guessable pseudorandom MongoDB ObjectID",
+  "main": "roid.js",
+  "dependencies": {
+    "uuid": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/nickarnold/mongo-roid"
+  },
+  "keywords": [
+    "mongodb",
+    "objectid"
+  ],
+  "author": "Nick Arnold <nicholasjarnold@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickarnold/mongo-roid/issues"
+  },
+  "homepage": "https://github.com/nickarnold/mongo-roid"
+}
